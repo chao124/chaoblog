@@ -1,13 +1,13 @@
 # menu
 menu:
   Home: .
-  Archives: archives  # 归档
-  Categories: categories  # 分类
-  Tags: tags  # 标签
+  Archives: 归档  # 归档
+  Categories: 分类  # 分类
+  Tags: 标签  # 标签
   Repository: repository  # github repositories
-  Books: books  # 豆瓣书单
-  Links: links  # 友链
-  About: about  # 关于
+  Books: 豆瓣书单  # 豆瓣书单
+  Links: 友链  # 友链
+  About: 关于  # 关于
 
 # Enable/Disable menu icons
 menu_icons:
@@ -31,7 +31,7 @@ site:
     width: 40
     height: 40
     url: ../images/logo.png
-  title: Hexo # 页面title
+  title: 阳光下的少年 # 页面title
   favicon: /favicon.png
   board: <p>欢迎交流与分享经验!</p> # 站点公告
   copyright: false # 底部版权信息
@@ -186,10 +186,10 @@ profile:
   enabled: true # Whether to show profile bar
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 昵称
+  author: 阳光下的少年
   author_title: Web Developer & Designer
   author_description: 个人简介。
-  location: Shenzhen, China
+  location: China
   follow: https://github.com/cofess
   # Social Links
   social:
