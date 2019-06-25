@@ -1,2 +1,2 @@
 # chao124.github.io
-myblog
+hexo 写博客专用
