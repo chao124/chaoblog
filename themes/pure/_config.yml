@@ -80,6 +80,7 @@ fancybox: false
 search:
   insight: true # you need to install `hexo-generator-json-content` before using Insight Search
   baidu: false # you need to disable other search engines to use Baidu search
+  swiftype: false # enter swiftype install key here
 
 # Donate
 donate:
@@ -102,18 +103,18 @@ share:
 
 # Github
 github: 
-  username: cofess  # github username
+  username: chao124 # cofess  # github username
 
 # Comment
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
 comment:
-  type: valine  # 启用哪种评论系统
+  type: livere # valine  # 启用哪种评论系统
   disqus:  # enter disqus shortname here
   youyan: 
     uid: 1783844 # enter youyan uid 
   livere:
-    uid: # enter youyan uid 
+    uid: MTAyMC80NDkzMC8yMTQ1Mg== # enter youyan uid 
   gitment:
     githubID: 
     repo: 
@@ -156,7 +157,7 @@ douban:
 # PV
 pv:
   busuanzi:
-    enable: false  # 不蒜子统计
+    enable: true  # 不蒜子统计
   leancloud:
     enable: false  # leancloud统计
     app_id: # leancloud <AppID>
@@ -187,7 +188,7 @@ profile:
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: 阳光下的少年
-  author_title: Web Developer & Designer
+  author_title: 一个有梦想的咸鱼
   author_description: 个人简介。
   location: China
   follow: https://github.com/cofess
