@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://shangchao.fun/"/>
   <updated>2021-04-12T09:33:13.022Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://shangchao.fun/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>&#39;第三个博客&#39;</title>
-    <link href="http://yoursite.com/2021/04/12/%E7%AC%AC%E4%B8%89%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2021/04/12/第三个博客/</id>
+    <link href="https://shangchao.fun/2021/04/12/%E7%AC%AC%E4%B8%89%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://shangchao.fun/2021/04/12/第三个博客/</id>
     <published>2021-04-12T09:32:52.000Z</published>
     <updated>2021-04-12T09:33:13.022Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2021/04/12/hello-world/"/>
-    <id>http://yoursite.com/2021/04/12/hello-world/</id>
+    <link href="https://shangchao.fun/2021/04/12/hello-world/"/>
+    <id>https://shangchao.fun/2021/04/12/hello-world/</id>
     <published>2021-04-12T09:11:02.349Z</published>
     <updated>2021-04-12T09:11:02.349Z</updated>
     
@@ -61,8 +61,8 @@
   
   <entry>
     <title>第一个博客</title>
-    <link href="http://yoursite.com/2018/06/25/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2018/06/25/第一个博客/</id>
+    <link href="https://shangchao.fun/2018/06/25/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://shangchao.fun/2018/06/25/第一个博客/</id>
     <published>2018-06-25T15:20:55.000Z</published>
     <updated>2021-04-12T09:55:32.086Z</updated>
     
