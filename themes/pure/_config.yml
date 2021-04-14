@@ -5,7 +5,7 @@ menu:
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
-  Books: books  # 豆瓣书单
+  #Books: books  # 豆瓣书单
   Links: links  # 友链
   About: about  # 关于
 
@@ -189,18 +189,18 @@ profile:
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: 阳光下的少年
   author_title: 一个有梦想的咸鱼
-  author_description: 个人简介。
-  location: China
-  follow: https://github.com/cofess
+  author_description: 一个有梦想的咸鱼。
+  location: 中国
+  follow: https://github.com/chao124
   # Social Links
   social:
     links:
       github: https://github.com/chao124/chao124.github.io
-      weibo: http://weibo.com/cofess
-      twitter: https://twitter.com/iwebued
+      weibo: http://weibo.com
+      twitter: https://twitter.com
       # facebook: /
       # dribbble: /
-      behance: https://www.behance.net/cofess
+      behance: https://www.behance.net
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
@@ -214,11 +214,11 @@ profile:
     平面设计: ★★★☆☆
   # My Personal Links
   links:
-    Github: https://github.com/cofess
-    Blog: http://blog.cofess.com
-    微博: http://weibo.com/cofess
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
+    Github: 暂无 #https://github.com/cofess
+    Blog: 暂无 #http://blog.cofess.com
+    微博: 暂无 #http://weibo.com/cofess
+    花瓣: 暂无 #http://huaban.com/cofess
+    Behance: 暂无 #https://www.behance.net/cofess
   # My Personal Labels
   labels:
     - 前端
@@ -228,10 +228,10 @@ profile:
     - 网页重构
   # My Personal Works
   works:
-    name:
+    暂无:
       link: http://www.example.com
       date: 2016
   # My Personal Projects
   projects:
-    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
+    暂无: 暂无 #https://github.com/cofess/gulp-startpro
+    # cofess/hexo-theme-pure: 暂无 #https://github.com/cofess/hexo-theme-pure

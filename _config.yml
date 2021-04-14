@@ -5,14 +5,14 @@
 # Site
 title: 阳光下的少年
 subtitle:
-description:
+description: 阳光
 keywords:
-author: John Doe
+author: 阳光下的少年
 language: zh-CN
 timezone:
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+## If your site is put in a  subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://shangchao.fun
 root: /
 permalink: :year/:month/:day/:title/
@@ -73,10 +73,30 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: pure
+#theme: landscape-plus
+theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+
+jsonContent:
+   meta: false
+   pages: false
+   posts:
+    title: true
+    date: true
+    path: true
+    text: false
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
 deploy:
   type: git
   repo: git@github.com:chao124/chao124.github.io
